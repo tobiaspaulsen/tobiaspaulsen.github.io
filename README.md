@@ -2,10 +2,11 @@
 
 ## tobiaspaulsen.github.io:
 
-- [ ] README
+- [ ] README, move TODO to projects
 - [ ] Custom domain?
 - [ ] More square Resume
 - [ ] Animate TSP in JS
+
 
 ## Sorting:
 
