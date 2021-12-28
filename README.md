@@ -4,13 +4,14 @@
 
 - [ ] README
 - [ ] Custom domain?
+- [ ] More square Resume
 
 ## Sorting:
 
 - [ ] Fix sorting for narrow screens, e.g.scrollable tabs
 - [ ] Clean up code to be more consequent
 - [ ] Favicon
-- [ ] More square Resume
+- [ ] Less transparent bars
 - [ ] README
 
 ## Projects:
