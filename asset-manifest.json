@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tobiaspaulsen.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/tobiaspaulsen.github.io/static/js/main.c87e03bf.js",
+    "static/js/787.bffa290e.chunk.js": "/tobiaspaulsen.github.io/static/js/787.bffa290e.chunk.js",
+    "static/media/logo.svg": "/tobiaspaulsen.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tobiaspaulsen.github.io/index.html",
+    "main.073c9b0a.css.map": "/tobiaspaulsen.github.io/static/css/main.073c9b0a.css.map",
+    "main.c87e03bf.js.map": "/tobiaspaulsen.github.io/static/js/main.c87e03bf.js.map",
+    "787.bffa290e.chunk.js.map": "/tobiaspaulsen.github.io/static/js/787.bffa290e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c87e03bf.js"
+  ]
+}
