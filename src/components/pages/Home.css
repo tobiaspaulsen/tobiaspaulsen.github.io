@@ -1,0 +1,102 @@
+.name-container {
+  display: flex;
+  padding: 200px 0 100px 0;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .myName {
+  max-width: 90%;
+  display: inline-block;
+  overflow: hidden;
+  background-image: url("../../img/a.jpg");
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -o-background-clip: text;
+  background-clip: text;
+  position: relative;
+  font-weight: bold;
+  font-size: 85px;
+  text-align: center;
+  color: transparent;
+  background-position: 0 100%;
+  transition: background-position 1.5s;
+}
+
+.myName:hover {
+  background-position: 0 95%;
+} */
+
+.myName {
+  max-width: 90%;
+  display: inline-block;
+  overflow: hidden;
+  font-size: 85px;
+  font-weight: 350;
+  color: #fff;
+  text-align: center;
+  /* background: -webkit-linear-gradient(#eee, #333); */
+  /* background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+}
+
+.info {
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  margin: 50px auto;
+  display: flex;
+  max-width: 1080px;
+  width: 90%;
+}
+
+.about,
+.contact-wrapper {
+  padding: 20px;
+}
+.about {
+  float: left;
+  width: 65%;
+}
+.about p {
+  font-style: thin;
+  font-weight: lighter;
+  font-size: 1.3rem;
+  line-height: 1.7;
+}
+.contact-wrapper {
+  float: right;
+  width: 35%;
+}
+.contact {
+  float: right;
+}
+.socialIcon + .socialIcon {
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .info {
+    display: block;
+    text-align: center;
+  }
+  .about,
+  .contact-wrapper {
+    width: 100%;
+    float: none;
+  }
+  .contact {
+    float: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .name-container {
+    padding: 100px 0 50px 0;
+  }
+  .myName {
+    font-size: 65px;
+  }
+}

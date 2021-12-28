@@ -1,0 +1,82 @@
+.resume {
+  margin: 40px;
+  line-height: 1.7;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.resume-container {
+  align-items: center;
+  max-width: 1080px;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.resume-card {
+  background: rgb(255, 255, 255);
+  border-radius: 20px;
+  padding: 40px 60px;
+  box-shadow: 0 9px 30px rgba(0, 0, 0, 0.4);
+  -webkit-filter: drop-shadow(0 6px 20px rgba(0, 0, 0, 0.02));
+  filter: drop-shadow(0 6px 20px rgba(0, 0, 0, 0.02));
+}
+
+.education,
+.experience {
+  padding-bottom: 20px;
+}
+.resume ul {
+  padding-left: 50px;
+  list-style-type: none;
+}
+.resume hr {
+  height: 1px;
+  background-color: #000;
+  border-width: 0;
+  margin-bottom: 10px;
+}
+.resume p {
+  padding-left: 20px;
+  font-size: 1rem;
+}
+.resume h1 {
+  font-size: 3.3rem;
+  padding-bottom: 15px;
+}
+.resume h2 {
+  font-size: 1.8rem;
+}
+.resume h3 {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+.resume h4 {
+  font-size: 1.3rem;
+}
+.resume h5 {
+  font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 900px) {
+  .resume {
+    margin: 10px;
+  }
+  .resume-card {
+    padding: 20px 30px;
+  }
+  .resume h1 {
+    font-size: 2.5rem;
+  }
+  .resume h2 {
+    font-size: 1.8rem;
+  }
+  .resume h3 {
+    font-size: 1.3rem;
+  }
+  .resume h4 {
+    font-size: 1.2rem;
+  }
+  .resume h5 {
+    font-size: 1.1rem;
+  }
+}

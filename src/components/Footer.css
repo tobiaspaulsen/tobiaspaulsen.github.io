@@ -1,0 +1,12 @@
+.footer * {
+  /* background-color: #242424; */
+  color: #fff;
+  padding: 5px;
+}
+.footer {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 20px 40px;
+  display: flexbox;
+  justify-content: left;
+  align-items: left;
+}
