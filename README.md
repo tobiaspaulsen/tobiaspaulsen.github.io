@@ -5,6 +5,7 @@
 - [ ] README
 - [ ] Custom domain?
 - [ ] More square Resume
+- [ ] Animate TSP in JS
 
 ## Sorting:
 
