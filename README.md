@@ -12,6 +12,9 @@
 - [ ] Clean up code to be more consequent
 - [ ] Favicon
 - [ ] Less transparent bars
+- [ ] Link to Repo
+- [ ] Animate shuffling?
+- [ ] Array inverse sorted?
 - [ ] README
 
 ## Projects:
