@@ -14,7 +14,7 @@
 
 .resume-card {
   background: rgb(255, 255, 255);
-  border-radius: 20px;
+  border-radius: 15px;
   padding: 40px 60px;
   box-shadow: 0 9px 30px rgba(0, 0, 0, 0.4);
   -webkit-filter: drop-shadow(0 6px 20px rgba(0, 0, 0, 0.02));

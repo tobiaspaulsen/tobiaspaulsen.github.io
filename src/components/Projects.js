@@ -11,15 +11,15 @@ function Projects() {
           <CardItem
             src="images/frontend.png"
             title="This Page!"
-            text="First time working frontend."
-            label="JavaScript + React"
+            text="First time working frontend. "
+            label="React"
             path="https://github.com/tobiaspaulsen/tobiaspaulsen.github.io"
           />
           <CardItem
             src="images/sorting.jpg"
             title="Sorting visualiser"
             text="Visualiser for Bubble-, Insertion-, Selection-, Quick-, and Heap Sort"
-            label="JavaScript + React"
+            label="React"
             path="https://tobiaspaulsen.github.io/sorting"
           />
         </ul>
