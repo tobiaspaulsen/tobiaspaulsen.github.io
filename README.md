@@ -9,10 +9,10 @@
 
 ## Sorting:
 
-- [ ] Fix sorting for narrow screens, e.g.scrollable tabs
+- [x] Fix sorting for narrow screens, e.g.scrollable tabs
 - [ ] Clean up code to be more consequent
-- [ ] Favicon
-- [ ] Less transparent bars
+- [x] Favicon
+- [x] Less transparent bars
 - [ ] Link to Repo
 - [ ] Animate shuffling?
 - [ ] Array inverse sorted?
