@@ -14,16 +14,17 @@
 .cards h1 {
   text-align: center;
   color: #fff;
-  font-size: 3rem;
+  font-size: 3.4rem;
+  padding-bottom: 40px;
 }
 
 .card-items {
-  margin-bottom: 24px;
+  margin-bottom: 32px;
   display: flex;
 }
 
 .card-item {
-  background: white;
+  background: rgb(245, 245, 245);
   display: flex;
   flex: 1;
   margin: 0 1rem;
@@ -103,9 +104,10 @@
 
 @media only screen and (max-width: 900px) {
   .card-item {
-    margin-bottom: 2rem;
+    margin-bottom: 24px;
   }
   .card-items {
+    margin-bottom: 0;
     max-width: 90%;
     justify-content: center;
     display: block;
